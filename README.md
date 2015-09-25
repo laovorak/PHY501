@@ -3,4 +3,4 @@
 
 **Instructor** Chan La-o-vorakiat
 
-Here is where you can download the lecture notes and ipython notebook for your numerical homework
+Here is where you can download the lecture notes and ipython notebooks for your numerical homework assignments.
